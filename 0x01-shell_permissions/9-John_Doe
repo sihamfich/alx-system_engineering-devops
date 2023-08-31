@@ -1,3 +1,2 @@
 #!/bin/bash
-numeric_mode=751
-chmod "$numeric_mode" hello
+chmod 753 hello
