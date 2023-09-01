@@ -1,11 +1,2 @@
 #!/bin/bash
-chown vincent:staff *
-~
-~
-~
-~
-~
-~
-~
-~
-~
+chown vincent:staff i*
