@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -ampty -printf '%f\n'
